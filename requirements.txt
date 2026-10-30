@@ -1,0 +1,12 @@
+streamlit>=1.40
+plotly
+pandas
+numpy
+scikit-learn
+openpyxl
+xlrd
+pdfplumber
+pypdfium2
+pytesseract
+pillow
+python-docx
